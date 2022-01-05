@@ -1,2 +1,6 @@
 developer content
 git tutorial
+
+modified file push to git server from local repository
+try2 was failed
+try3 .... 
